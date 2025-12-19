@@ -1,0 +1,45 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Hsh Gabo"
+		]
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			21,
+			0
+		],
+		"uuid": "74eb65f7-5fde-4aab-8296-9655b219fb1a",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "b4bdc692-608e-4503-8304-91a1f17fd639",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "25e80886-98a0-4f9d-b796-ef41435e2bb7",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
+
